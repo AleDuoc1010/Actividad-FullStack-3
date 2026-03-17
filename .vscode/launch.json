@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<productos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "Producto.productos.Application",
+            "projectName": "productos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
